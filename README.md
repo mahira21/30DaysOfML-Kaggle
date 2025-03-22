@@ -13,7 +13,7 @@ This repository contains my learning journey for Kaggle's **30 Days of ML** chal
    - Covered function definitions, parameters, return values.   
 
 **Data Types & Manipulation (Data_Types_Float_Integer_String_Boolean.ipynb)**  
-   - Explained different Python data types (int, float, string, list, dict).  
+   - Explained different Python data types (int, float, string, boolean).  
    
 
 
