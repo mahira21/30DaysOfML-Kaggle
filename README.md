@@ -1,14 +1,21 @@
-# 30DaysOfML-Kaggle
-This repository contains my learning progress and notes from Kaggle's 30 Days of ML challenge.
+# 30 Days of ML - Kaggle 
+
+This repository contains my learning journey for Kaggle's **30 Days of ML** challenge. 
+
+## Topics Covered
+
+**Titanic Survival Prediction (Titanic survivalprediction using RandomForestClassifier.ipynb)**  
+   - Implemented survival prediction using Random Forest Classifier.  
+   - Preprocessed the dataset (handling missing values, encoding categorical data).  
+   - Made predictions and saved results as "my_submission.csv".  
+   
+**Functions in Python (home_cost_calculation_solution.ipynb)**  
+   - Covered function definitions, parameters, return values.   
+
+**Data Types & Manipulation (Data_Types_Float_Integer_String_Boolean.ipynb)**  
+   - Explained different Python data types (int, float, string, list, dict).  
+   
 
 
 
-
-- Implemented a Titanic survival prediction model using RandomForestClassifier  
-- Loaded Titanic train and test datasets  
-- Analyzed survival rates for men and women  
-- Selected key features (Pclass, Sex, SibSp, Parch) for training  
-- Preprocessed data using one-hot encoding for categorical variables  
-- Trained a Random Forest model with 100 estimators and max depth of 5  
-- Generated survival predictions and saved them as 'my_submission.csv'  
 
