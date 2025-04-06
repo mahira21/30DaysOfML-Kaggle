@@ -15,10 +15,16 @@ This repository contains my learning journey for Kaggle's **30 Days of ML** chal
 **Data Types & Manipulation (Data_Types_Float_Integer_String_Boolean.ipynb)**  
    - Explained different Python data types (int, float, string, boolean).
      
-**Conditions and Conditional Statements (Conditions_Conditional_Statements.ipynb)
+**Conditions and Conditional Statements (Conditions_Conditional_Statements.ipynb)**
    - Worked with if, else, elif to evaluate conditions 
    - Covered comparison operators and boolean expressions  
-   - Applied conditions in real world scenerios like grade calculation, project cost estimation, Food label determination and phone bill calculation. 
+   - Applied conditions in real world scenerios like grade calculation, project cost estimation, Food label determination and phone bill calculation.
+
+**Python List Operations and Function (Python List Operations and Function Practices.ipynb)**
+   - Worked with lists, list slicing, and functions
+   - Used conditionals to manipulate and check lists  
+   - Implemented a function to check if a guest is fashionably late
+   - Predicted list lengths based on structure and indexing
    
 
 
