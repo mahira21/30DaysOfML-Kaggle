@@ -4,7 +4,7 @@ This repository contains my learning journey for Kaggle's **30 Days of ML** chal
 
 ## Topics Covered
 
-**Titanic Survival Prediction (Titanic survivalprediction using RandomForestClassifier.ipynb)**  
+**Titanic Survival Prediction (Titanic survival prediction using RandomForestClassifier.ipynb)**  
    - Implemented survival prediction using Random Forest Classifier.  
    - Preprocessed the dataset (handling missing values, encoding categorical data).  
    - Made predictions and saved results as "my_submission.csv".  
@@ -26,7 +26,9 @@ This repository contains my learning journey for Kaggle's **30 Days of ML** chal
    - Implemented a function to check if a guest is fashionably late
    - Predicted list lengths based on structure and indexing
    
-
-
+**Melbourne Housing Prediction (Melbourne Housing Price Prediction.ipynb)**
+   - Explored and preprocessed the Melbourne housing dataset for regression modeling..
+   - Selected key numerical features and handled missing data effectively.
+   - Trained and tested a Decision Tree Regressor to generate price predictions for residential properties.
 
 
