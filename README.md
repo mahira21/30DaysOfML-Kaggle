@@ -27,8 +27,9 @@ This repository contains my learning journey for Kaggle's **30 Days of ML** chal
    - Predicted list lengths based on structure and indexing
    
 **Melbourne Housing Prediction (Melbourne Housing Price Prediction.ipynb)**
-   - Explored and preprocessed the Melbourne housing dataset for regression modeling..
-   - Selected key numerical features and handled missing data effectively.
-   - Trained and tested a Decision Tree Regressor to generate price predictions for residential properties.
+   - Explored and preprocessed the Melbourne housing dataset, Selected key numerical features and handled missing data.
+   - Trained and tested multiple regression models: Decision Tree, Random Forest, and Gradient Boosting Regressor to predict housing prices.
+   - Evaluated model performance using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
+   - Compared the results of the models, with Random Forest providing the most accurate predictions.
 
 
