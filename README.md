@@ -4,32 +4,18 @@ This repository contains my learning journey for Kaggle's **30 Days of ML** chal
 
 ## Topics Covered
 
-**Titanic Survival Prediction (Titanic survival prediction using RandomForestClassifier.ipynb)**  
-   - Implemented survival prediction using Random Forest Classifier.  
-   - Preprocessed the dataset (handling missing values, encoding categorical data).  
-   - Made predictions and saved results as "my_submission.csv".  
-   
-**Functions in Python (home_cost_calculation_solution.ipynb)**  
-   - Covered function definitions, parameters, return values.   
+**Titanic Survival Prediction (Titanic survival - RandomForestClassifier.ipynb)** 
+   - Built a survival prediction model using Random Forest.  
+   - Preprocessed dataset (missing values, categorical encoding). 
+   - Saved predictions as “my_submission.csv”.
 
-**Data Types & Manipulation (Data_Types_Float_Integer_String_Boolean.ipynb)**  
-   - Explained different Python data types (int, float, string, boolean).
+**House Price Prediction (Melbourne Housing - Multiple Regressors.ipynb)**
+   - Applied Decision Tree, Random Forest, and XGBoost on the Melbourne dataset.
+   - Covered model training, validation, and evaluation.
+   - Compared results to understand underfitting and overfitting
      
-**Conditions and Conditional Statements (Conditions_Conditional_Statements.ipynb)**
-   - Worked with if, else, elif to evaluate conditions 
-   - Covered comparison operators and boolean expressions  
-   - Applied conditions in real world scenerios like grade calculation, project cost estimation, Food label determination and phone bill calculation.
-
-**Python List Operations and Function (Python List Operations and Function Practices.ipynb)**
-   - Worked with lists, list slicing, and functions
-   - Used conditionals to manipulate and check lists  
-   - Implemented a function to check if a guest is fashionably late
-   - Predicted list lengths based on structure and indexing
-   
-**Melbourne Housing Prediction (Melbourne Housing Price Prediction.ipynb)**
-   - Explored and preprocessed the Melbourne housing dataset, Selected key numerical features and handled missing data.
-   - Trained and tested multiple regression models: Decision Tree, Random Forest, and Gradient Boosting Regressor to predict housing prices.
-   - Evaluated model performance using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
-   - Compared the results of the models, with Random Forest providing the most accurate predictions.
+**Python basics (Completed Earlier) 
+   - Functions, data types, conditions, list operations.
+   - Practiced with small exercises and real-world examples.
 
 
